@@ -19,5 +19,17 @@
       "added_at": "28.04.2026 03:31"
     }
   ],
-  "admin_blacklist": []
+  "admin_blacklist": [
+    {
+      "name": "Toha",
+      "avatar": "https://cdn.discordapp.com/avatars/513264526167113728/0b2c39fb2cd8193784ce858e7c8148e7.png?size=1024",
+      "id": "513264526167113728",
+      "reason": "ПрофНепригодность",
+      "date": "30.06.2025",
+      "expires": "0",
+      "department": "Discord",
+      "added_by": "fordss9",
+      "added_at": "28.04.2026 04:28"
+    }
+  ]
 }
