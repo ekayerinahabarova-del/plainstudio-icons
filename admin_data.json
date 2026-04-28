@@ -1,128 +1,14 @@
-[
-  {
-    "rank": "Глава администрации",
-    "avatar": "https://cdn.discordapp.com/avatars/1183042113710063796/478e6a1904f5df1277a8385232a642ea.png?size=1024",
-    "name": "FORDSS?",
-    "discordId": "1183042113710063796",
-    "reprimands": 0,
-    "date": "22.04.2026",
-    "frozen": false
-  },
-  {
-    "rank": "Куратор",
-    "avatar": "https://cdn.discordapp.com/avatars/874928918979837983/e0fd231c295301ddc743c0e6f144a842.png?size=1024",
-    "name": "swif",
-    "discordId": "874928918979837983",
-    "reprimands": 0,
-    "date": "22.04.2026",
-    "frozen": false
-  },
-  {
-    "rank": "Куратор",
-    "avatar": "https://cdn.discordapp.com/avatars/903824074306912259/01afbd9fba2160fbff15a63baf9f725b.png?size=1024",
-    "name": "Герыч",
-    "discordId": "903824074306912259",
-    "reprimands": 0,
-    "date": "22.04.2026",
-    "frozen": false
-  },
-  {
-    "rank": "Куратор",
-    "avatar": "https://cdn.discordapp.com/avatars/1073590134328524841/32a511f3d983d774b3d98d5b0c70ffc9.png?size=1024",
-    "name": "mef10000",
-    "discordId": "1073590134328524841",
-    "reprimands": 0,
-    "date": "22.04.2026",
-    "frozen": false
-  },
-  {
-    "rank": "Admin",
-    "avatar": "https://cdn.discordapp.com/avatars/1084333449239875664/569019d7d252d8409267ea192feb01e1.png?size=1024",
-    "name": "PerchikGolovi32",
-    "discordId": "1084333449239875664",
-    "reprimands": 0,
-    "date": "22.04.2026",
-    "frozen": false
-  },
-  {
-    "rank": "Admin",
-    "avatar": "https://cdn.discordapp.com/avatars/738030229133721683/7c21bdd5dffa7253ea8c00d3305a08e5.png?size=1024",
-    "name": "3 часа ночи во мне 3 адреналина",
-    "discordId": "738030229133721683",
-    "reprimands": 0,
-    "date": "22.04.2026",
-    "frozen": false
-  },
-  {
-    "rank": "Admin",
-    "avatar": "https://cdn.discordapp.com/avatars/876683887714123837/b1dfa6997782aa42840c8b0b73a7c759.png?size=1024",
-    "name": "proximmikreal #TND",
-    "discordId": "876683887714123837",
-    "reprimands": 0,
-    "date": "22.04.2026",
-    "frozen": false
-  },
-  {
-    "rank": "Admin",
-    "avatar": "https://cdn.discordapp.com/avatars/1238483883180298424/c1d74be2a32a8af0b01c04c16f01b132.png?size=1024",
-    "name": "Grigoyri69",
-    "discordId": "1238483883180298424",
-    "reprimands": 0,
-    "date": "22.04.2026",
-    "frozen": false
-  },
-  {
-    "rank": "Admin Donat",
-    "avatar": "https://cdn.discordapp.com/avatars/513264526167113728/0b2c39fb2cd8193784ce858e7c8148e7.png?size=1024",
-    "name": "Toha",
-    "discordId": "513264526167113728",
-    "reprimands": 0,
-    "date": "22.04.2026",
-    "frozen": false
-  },
-  {
-    "rank": "Moderator",
-    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
-    "name": "Dgasmin",
-    "discordId": "1436327120749072405",
-    "reprimands": 0,
-    "date": "22.04.2026",
-    "frozen": false
-  },
-  {
-    "rank": "Moderator",
-    "avatar": "https://cdn.discordapp.com/embed/avatars/1.png",
-    "name": "Timurius_nagibator",
-    "discordId": "1467855147278536919",
-    "reprimands": 0,
-    "date": "22.04.2026",
-    "frozen": false
-  },
-  {
-    "rank": "Moderator",
-    "avatar": "https://cdn.discordapp.com/avatars/741524019823640678/7745f8a3926e688a316355b2191bd429.png?size=1024",
-    "name": "Rowerly",
-    "discordId": "741524019823640678",
-    "reprimands": 0,
-    "date": "22.04.2026",
-    "frozen": false
-  },
-  {
-    "rank": "Moderator",
-    "avatar": "https://cdn.discordapp.com/avatars/1060518415078531152/167f1304c8b307f51b2c020a8b842e5b.png?size=1024",
-    "name": "Прапорщик чай",
-    "discordId": "1060518415078531152",
-    "reprimands": 1,
-    "date": "22.04.2026",
-    "frozen": false
-  },
-  {
-    "rank": "Moderator",
-    "avatar": "https://cdn.discordapp.com/avatars/405002575122006016/8a15f27ec8c8d25bb49490741f99bb1c.png?size=1024",
-    "name": "zh1g4nch1k",
-    "discordId": "405002575122006016",
-    "reprimands": 0,
-    "date": "22.04.2026",
-    "frozen": false
-  }
-]
+{
+  "project_blacklist": [
+    {
+      "name": "Anton",
+      "avatar": "https://cdn.discordapp.com/avatars/957230367436308511/740b2c7234796beea4578ce379325a8e.png?size=1024",
+      "id": "957230367436308511",
+      "reason": "Вред Проекту",
+      "date": "13.11.2025",
+      "added_by": "fordss9",
+      "added_at": "28.04.2026 03:13"
+    }
+  ],
+  "admin_blacklist": []
+}
