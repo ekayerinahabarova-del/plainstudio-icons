@@ -72,6 +72,15 @@
     "frozen": false
   },
   {
+    "rank": "Admin",
+    "avatar": "https://cdn.discordapp.com/avatars/405002575122006016/8a15f27ec8c8d25bb49490741f99bb1c.png?size=1024",
+    "name": "zh1g4nch1k",
+    "discordId": "405002575122006016",
+    "reprimands": 0,
+    "date": "01.06.2025",
+    "frozen": false
+  },
+  {
     "rank": "Admin Donat",
     "avatar": "https://cdn.discordapp.com/avatars/513264526167113728/0b2c39fb2cd8193784ce858e7c8148e7.png?size=1024",
     "name": "Toha",
@@ -114,15 +123,6 @@
     "discordId": "1060518415078531152",
     "reprimands": 1,
     "date": "07.02.2025",
-    "frozen": false
-  },
-  {
-    "rank": "Moderator",
-    "avatar": "https://cdn.discordapp.com/avatars/405002575122006016/8a15f27ec8c8d25bb49490741f99bb1c.png?size=1024",
-    "name": "zh1g4nch1k",
-    "discordId": "405002575122006016",
-    "reprimands": 0,
-    "date": "01.06.2025",
     "frozen": false
   }
 ]
