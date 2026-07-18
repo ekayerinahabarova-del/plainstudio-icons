@@ -42,7 +42,8 @@
     "discordId": "876683887714123837",
     "reprimands": 0,
     "date": "18.07.2026",
-    "frozen": false
+    "frozen": true,
+    "freeze_reason": "Дача"
   },
   {
     "rank": "Admin",
