@@ -1,46 +1,14 @@
 {
   "project_blacklist": [
     {
-      "name": "Swuwus",
-      "avatar": "https://cdn.discordapp.com/avatars/943861115719385130/7edc61eedcb140797f6959f53c1bfeb6.png?size=1024",
-      "id": "943861115719385130",
-      "reason": "Mass Admin Abuse",
-      "date": "20.08.2023",
+      "name": "Diego Kurotaka",
+      "avatar": "https://cdn.discordapp.com/avatars/1081311897942495252/da36bb3ffb056b7dd69c531049a3c9fb.png?size=1024",
+      "id": "1081311897942495252",
+      "reason": "Злоупотребление партнёрством",
+      "date": "18.07.2026",
       "added_by": "fordss9",
-      "added_at": "28.04.2026 03:28"
-    },
-    {
-      "name": "Anton",
-      "avatar": "https://cdn.discordapp.com/avatars/957230367436308511/740b2c7234796beea4578ce379325a8e.png?size=1024",
-      "id": "957230367436308511",
-      "reason": "Вред Проекту",
-      "date": "13.11.2025",
-      "added_by": "fordss9",
-      "added_at": "28.04.2026 03:31"
+      "added_at": "18.07.2026 08:35"
     }
   ],
-  "admin_blacklist": [
-    {
-      "name": "Toha",
-      "avatar": "https://cdn.discordapp.com/avatars/513264526167113728/0b2c39fb2cd8193784ce858e7c8148e7.png?size=1024",
-      "id": "513264526167113728",
-      "reason": "ПрофНепригодность",
-      "date": "30.06.2025",
-      "expires": "0",
-      "department": "Discord",
-      "added_by": "fordss9",
-      "added_at": "28.04.2026 04:28"
-    },
-    {
-      "name": "Far_East-dragon_",
-      "avatar": "https://cdn.discordapp.com/avatars/593257336450056193/c0f16969634a2391a82d59b3b5a39b23.png?size=1024",
-      "id": "593257336450056193",
-      "reason": "РешениеРуководства",
-      "date": "24.08.2025",
-      "expires": "0",
-      "department": "Discord",
-      "added_by": "fordss9",
-      "added_at": "28.04.2026 04:33"
-    }
-  ]
+  "admin_blacklist": []
 }
