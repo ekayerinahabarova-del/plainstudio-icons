@@ -10,15 +10,6 @@
   },
   {
     "rank": "Куратор",
-    "avatar": "https://cdn.discordapp.com/avatars/874928918979837983/e0fd231c295301ddc743c0e6f144a842.png?size=1024",
-    "name": "swif",
-    "discordId": "874928918979837983",
-    "reprimands": 0,
-    "date": "18.07.2026",
-    "frozen": false
-  },
-  {
-    "rank": "Куратор",
     "avatar": "https://cdn.discordapp.com/avatars/903824074306912259/01afbd9fba2160fbff15a63baf9f725b.png?size=1024",
     "name": "Герыч",
     "discordId": "903824074306912259",
@@ -34,16 +25,6 @@
     "reprimands": 0,
     "date": "18.07.2026",
     "frozen": false
-  },
-  {
-    "rank": "Куратор",
-    "avatar": "https://cdn.discordapp.com/avatars/876683887714123837/b1dfa6997782aa42840c8b0b73a7c759.png?size=1024",
-    "name": "proximareal",
-    "discordId": "876683887714123837",
-    "reprimands": 0,
-    "date": "18.07.2026",
-    "frozen": true,
-    "freeze_reason": "Дача"
   },
   {
     "rank": "Admin",
@@ -89,6 +70,16 @@
     "reprimands": 0,
     "date": "29.07.2026",
     "frozen": false
+  },
+  {
+    "rank": "Moderator",
+    "avatar": "https://cdn.discordapp.com/avatars/876683887714123837/b1dfa6997782aa42840c8b0b73a7c759.png?size=1024",
+    "name": "proximareal",
+    "discordId": "876683887714123837",
+    "reprimands": 0,
+    "date": "18.07.2026",
+    "frozen": true,
+    "freeze_reason": "Дача"
   },
   {
     "rank": "Moderator",
