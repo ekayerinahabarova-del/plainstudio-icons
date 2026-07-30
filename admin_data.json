@@ -1,6 +1,24 @@
 [
   {
-    "rank": "Глава администрации",
+    "rank": "Основатель",
+    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+    "name": "Dgasmin",
+    "discordId": "1436327120749072405",
+    "reprimands": 0,
+    "date": "18.07.2026",
+    "frozen": false
+  },
+  {
+    "rank": "Основатель",
+    "avatar": "https://cdn.discordapp.com/avatars/1183042113710063796/478e6a1904f5df1277a8385232a642ea.png?size=1024",
+    "name": "FORDSS?",
+    "discordId": "1183042113710063796",
+    "reprimands": 0,
+    "date": "30.07.2026",
+    "frozen": false
+  },
+  {
+    "rank": "Старший Куратор",
     "avatar": "https://cdn.discordapp.com/avatars/874928918979837983/e0fd231c295301ddc743c0e6f144a842.png?size=1024",
     "name": "swif",
     "discordId": "874928918979837983",
@@ -86,15 +104,6 @@
     "avatar": "https://cdn.discordapp.com/embed/avatars/1.png",
     "name": "Timurius_nagibator",
     "discordId": "1467855147278536919",
-    "reprimands": 0,
-    "date": "18.07.2026",
-    "frozen": false
-  },
-  {
-    "rank": "Moderator",
-    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
-    "name": "Dgasmin",
-    "discordId": "1436327120749072405",
     "reprimands": 0,
     "date": "18.07.2026",
     "frozen": false
