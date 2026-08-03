@@ -15,7 +15,8 @@
     "discordId": "1183042113710063796",
     "reprimands": 0,
     "date": "30.07.2026",
-    "frozen": false
+    "frozen": true,
+    "freeze_reason": "Отпуск"
   },
   {
     "rank": "Старший Куратор",
