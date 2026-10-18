@@ -5,7 +5,7 @@
     "name": "Dgasmin",
     "discordId": "1436327120749072405",
     "reprimands": 0,
-    "date": "18.07.2026",
+    "date": "18.10.2026",
     "frozen": false
   },
   {
@@ -14,9 +14,8 @@
     "name": "FORDSS?",
     "discordId": "1183042113710063796",
     "reprimands": 0,
-    "date": "30.07.2026",
-    "frozen": true,
-    "freeze_reason": "Отпуск"
+    "date": "18.10.2026",
+    "frozen": false
   },
   {
     "rank": "Старший Куратор",
@@ -24,7 +23,7 @@
     "name": "swif",
     "discordId": "874928918979837983",
     "reprimands": 0,
-    "date": "30.07.2026",
+    "date": "18.10.2026",
     "frozen": false
   },
   {
@@ -33,7 +32,7 @@
     "name": "Герыч",
     "discordId": "903824074306912259",
     "reprimands": 0,
-    "date": "18.07.2026",
+    "date": "18.10.2026",
     "frozen": false
   },
   {
@@ -41,8 +40,8 @@
     "avatar": "https://cdn.discordapp.com/avatars/1073590134328524841/32a511f3d983d774b3d98d5b0c70ffc9.png?size=1024",
     "name": "mef10000",
     "discordId": "1073590134328524841",
-    "reprimands": 1,
-    "date": "18.07.2026",
+    "reprimands": 0,
+    "date": "18.10.2026",
     "frozen": false
   },
   {
@@ -51,7 +50,7 @@
     "name": "Fi2",
     "discordId": "405002575122006016",
     "reprimands": 0,
-    "date": "23.09.2026",
+    "date": "18.10.2026",
     "frozen": false
   },
   {
@@ -59,8 +58,8 @@
     "avatar": "https://cdn.discordapp.com/avatars/1084333449239875664/569019d7d252d8409267ea192feb01e1.png?size=1024",
     "name": "PerchikGolovi32",
     "discordId": "1084333449239875664",
-    "reprimands": 1,
-    "date": "18.07.2026",
+    "reprimands": 0,
+    "date": "18.10.2026",
     "frozen": false
   },
   {
@@ -69,7 +68,7 @@
     "name": "3 часа ночи во мне 3 адреналина",
     "discordId": "738030229133721683",
     "reprimands": 0,
-    "date": "18.07.2026",
+    "date": "18.10.2026",
     "frozen": false
   },
   {
@@ -78,7 +77,7 @@
     "name": "BlyatskyHutor03",
     "discordId": "1508056142767456368",
     "reprimands": 0,
-    "date": "18.07.2026",
+    "date": "18.10.2026",
     "frozen": false
   },
   {
@@ -87,7 +86,7 @@
     "name": "Pavlik-iPad",
     "discordId": "704383526895747242",
     "reprimands": 0,
-    "date": "29.07.2026",
+    "date": "18.10.2026",
     "frozen": false
   },
   {
@@ -96,7 +95,7 @@
     "name": "Timurius_nagibator",
     "discordId": "1467855147278536919",
     "reprimands": 0,
-    "date": "18.07.2026",
+    "date": "18.10.2026",
     "frozen": false
   },
   {
@@ -105,16 +104,7 @@
     "name": "Rowerly",
     "discordId": "741524019823640678",
     "reprimands": 0,
-    "date": "18.07.2026",
-    "frozen": false
-  },
-  {
-    "rank": "Moderator",
-    "avatar": "https://cdn.discordapp.com/avatars/1060518415078531152/cfd366347a9767b1a1fa2876aa18fd1c.png?size=1024",
-    "name": "Прапорщик чай",
-    "discordId": "1060518415078531152",
-    "reprimands": 1,
-    "date": "18.07.2026",
+    "date": "18.10.2026",
     "frozen": false
   },
   {
@@ -123,7 +113,16 @@
     "name": "Проксееееее(ХАЛЯЯЯЯЯЯЯЛЬ)",
     "discordId": "876683887714123837",
     "reprimands": 0,
-    "date": "04.08.2026",
+    "date": "18.10.2026",
+    "frozen": false
+  },
+  {
+    "rank": "Moderator",
+    "avatar": "https://cdn.discordapp.com/avatars/1060518415078531152/cfd366347a9767b1a1fa2876aa18fd1c.png?size=1024",
+    "name": "Прапорщик чай",
+    "discordId": "1060518415078531152",
+    "reprimands": 0,
+    "date": "18.10.2026",
     "frozen": false
   }
 ]
