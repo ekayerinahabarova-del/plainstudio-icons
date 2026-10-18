@@ -1,15 +1,6 @@
 [
   {
     "rank": "Основатель",
-    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
-    "name": "Dgasmin",
-    "discordId": "1436327120749072405",
-    "reprimands": 0,
-    "date": "18.10.2026",
-    "frozen": false
-  },
-  {
-    "rank": "Основатель",
     "avatar": "https://cdn.discordapp.com/avatars/1183042113710063796/478e6a1904f5df1277a8385232a642ea.png?size=1024",
     "name": "FORDSS?",
     "discordId": "1183042113710063796",
@@ -85,6 +76,15 @@
     "avatar": "https://cdn.discordapp.com/avatars/704383526895747242/fd025a50a62c73403cd924e37789144d.png?size=1024",
     "name": "Pavlik-iPad",
     "discordId": "704383526895747242",
+    "reprimands": 0,
+    "date": "18.10.2026",
+    "frozen": false
+  },
+  {
+    "rank": "Moderator",
+    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+    "name": "Dgasmin",
+    "discordId": "1436327120749072405",
     "reprimands": 0,
     "date": "18.10.2026",
     "frozen": false
